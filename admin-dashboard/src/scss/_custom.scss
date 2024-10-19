@@ -1,0 +1,10 @@
+// Here you can add other styles
+.header{
+    &.header-sticky{
+        z-index: 999;
+    }
+}
+.banner-text{
+    text-align: center;
+    margin: 25px;
+}
